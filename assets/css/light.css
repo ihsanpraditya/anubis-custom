@@ -13,6 +13,10 @@
     --nav-bg-color: #fafafa;
     --nav-link-color: #696969;
 
+    --toc-color: #808080;
+    --toc-hover-color: #006fb9;
+    --toc-bg-color: #fafafa;
+
     /* --pre-color: #f8f8f2; */
     --pre-color: --font-color;
     --pre-bg-color: #d9d9d9;
