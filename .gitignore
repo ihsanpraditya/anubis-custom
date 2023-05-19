@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,android,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,android,windows,linux
 
+# folder
+themes/
+public/
+
 ### Android ###
 # Gradle files
 .gradle/
@@ -60,6 +64,9 @@ gen-external-apklibs
 ### macOS ###
 # General
 .DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
 .AppleDouble
 .LSOverride
 
